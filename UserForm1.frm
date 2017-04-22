@@ -13,3 +13,12 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+'I am in here
+
+Public testing As String
+
+Public Sub DoThings()
+
+    MsgBox "Here I am, doing something"
+    
+End Sub
