@@ -20,5 +20,6 @@ Public testing As String
 Public Sub DoThings()
 
     MsgBox "Here I am, doing something"
+	MsgBox "I made a change"
     
 End Sub
